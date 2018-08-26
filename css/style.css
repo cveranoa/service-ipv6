@@ -1242,7 +1242,7 @@ a.bg-video-button-muted{
 .hs-line-7{
     margin-top: 0;
     position: relative;
-    font-size: 64px;
+    font-size: 45px;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -3095,14 +3095,14 @@ a.logo:hover{
 }
 .alt-features-title{
     margin-bottom: 21px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.4em;
 }
 .alt-features-descr {
     color: #777;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 1.86
 }
